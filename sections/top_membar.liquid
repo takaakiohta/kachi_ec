@@ -1,0 +1,27 @@
+<div class="main__membar-wrapper">
+  <h2>会員登録</h2>
+  <p>現在、何知会員 事前登録を受け付けております。<br>
+「継なぐ」をテーマに日本の暮らし、<br>
+文化継承に共感いただける方の応援をお待ちしております。<br>
+</p>
+  <div class="btn_membar">
+  <a class="btn_register" href="{{ routes.root_url }}account/register">事前登録する
+    <span class="arrow">→</span>
+  </a>
+  </div>
+  <p>※現在、登録は無料です。<br>
+※会員プログラムについては構築中です。</p>
+</div>
+{% schema %}
+  {
+    "name": "会員登録",
+    "tag": "section",
+    "class": "section",
+    "settings": [],
+      "presets": [
+    {
+      "name": "会員登録"
+    }
+        ]
+  }
+{% endschema %}

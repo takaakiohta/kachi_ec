@@ -666,10 +666,10 @@
             {%- endcase -%}
           {%- endfor -%}
 
-<p class="line-item-property__field">
-  <label for="engraveTxt">合言葉</label>
-  <input id="engraveTxt" type="text" name="properties[合言葉]" form="{{ product_form_id }}">
-</p>
+          <p class="line-item-property__field">
+            <label for="engraveTxt">合言葉</label>
+            <input id="engraveTxt" type="text" name="properties[合言葉]" form="{{ product_form_id }}">
+          </p>
           <a href="{{ product.url }}" class="link product__view-details animate-arrow">
             {{ 'products.product.view_full_details' | t }}
             {{- 'icon-arrow.svg' | inline_asset_content -}}

@@ -2964,8 +2964,11 @@ details-disclosure > details {
   .logo h6 {
     margin:0px;
   }
+  .footer-links_sp{
+    color:#fff;
+  }
   .footer-links_pc{
-    
+    display:none;
   }
 }
 @media screen and (min-width: 750px) {
@@ -2991,12 +2994,7 @@ details-disclosure > details {
       margin: 0 auto;
       position: relative;
   }
-  .footer-links_sp{
-    color:#fff;
-  }
-  .footer-links_pc{
-    display:none;
-  }
+
   .logo {
       display: flex;
       justify-content: left;

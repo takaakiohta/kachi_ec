@@ -2947,6 +2947,12 @@ details-disclosure > details {
   .main__top-wrapper h2 {
     font-size: 1.6em;
   }
+  .main__top-wrapper h1 {
+    margin: 0 auto;
+    font-family: dnp-shuei-nmincho-std, sans-serif;
+    font-size: 3.2em;
+    color:#5C5C5C;
+  }
   .header__heading{
     width:200px;
     text-align:left;
@@ -3005,6 +3011,12 @@ details-disclosure > details {
   }
   .main__top-wrapper h2 {
     font-size: 2.6em;
+  }
+  .main__top-wrapper h1 {
+    margin: 0 auto;
+    font-family: dnp-shuei-nmincho-std, sans-serif;
+    font-size: 3.8em;
+    color:#5C5C5C;
   }
   .footer {
     text-align:right;
@@ -3128,12 +3140,7 @@ details-disclosure > details {
   font-family: dnp-shuei-nmincho-std, sans-serif;
   color:#5C5C5C;
 }
-.main__top-wrapper h1 {
-  margin: 0 auto;
-  font-family: dnp-shuei-nmincho-std, sans-serif;
-  font-size: 3.8em;
-  color:#5C5C5C;
-}
+
 .main__top-wrapper h2 {
   font-family: dnp-shuei-nmincho-std, sans-serif;
   color:#5C5C5C;

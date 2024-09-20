@@ -2433,7 +2433,9 @@ input[type='checkbox'] {
 .header__heading-link {
 
 }
-
+.header-drawer{
+  display:none;
+}
 .header__heading-link {
   display: inline-block;
   text-decoration: none;

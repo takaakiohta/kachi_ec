@@ -2948,6 +2948,7 @@ details-disclosure > details {
   }
   .header__heading{
     width:200px;
+    text-align:left;
   }
   .footer {
     text-align:left;

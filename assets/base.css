@@ -2944,6 +2944,9 @@ details-disclosure > details {
     font-size:1.6em;
     letter-spacing:0em;
   }
+  .main__top-wrapper{
+    font-size: 0.87em;  
+  }
   .main__top-wrapper h2 {
     font-size: 1.3em;
   }

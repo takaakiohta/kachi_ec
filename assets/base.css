@@ -2964,10 +2964,11 @@ details-disclosure > details {
   }
   .logo h6 {
     font-size:1.6em;
-    margin:0px 0 40px 0;
+    margin:0px 0 20px 0;
   }
   .footer-links_sp{
     color:#fff;
+    margin-bottom:100px;
   }
   .footer-links_sp a, .footer-bottom,.logo h6{
     color:#fff;

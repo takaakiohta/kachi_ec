@@ -2948,6 +2948,12 @@ details-disclosure > details {
   .header__heading{
     width:200px;
   }
+  
+}
+@media screen and (min-width: 750px) {
+  .main__top-wrapper h2 {
+    font-size: 2.6em;
+  }
   .footer {
     width: 100%;
     text-align: right;
@@ -3016,11 +3022,6 @@ details-disclosure > details {
     color: #f5efe9;
     text-decoration: none;
 }
-}
-@media screen and (min-width: 750px) {
-  .main__top-wrapper h2 {
-    font-size: 2.6em;
-  }
 }
 .top_bg{
   background:url("https://cdn.shopify.com/s/files/1/0721/1879/6544/files/bg.png?v=1726720177");

@@ -2945,7 +2945,8 @@ details-disclosure > details {
     letter-spacing:0em;
   }
   .main__top-wrapper p{
-    font-size: 0.87em;  
+    font-size: 0.87em;
+    margin-bottom:30px;
   }
   .main__top-wrapper h2 {
     font-size: 1.3em;

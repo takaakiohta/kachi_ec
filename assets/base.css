@@ -2948,6 +2948,74 @@ details-disclosure > details {
   .header__heading{
     width:200px;
   }
+  .footer {
+    width: 100%;
+    text-align: right;
+    padding-top: 0px;
+    background-color: #b29a8a; /* フッター全体の背景色 */
+    font-family: "dnp-shuei-ymincho-std", sans-serif;
+}
+
+.footer_container {
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+.footer-links{
+  color:#fff;
+}
+.logo {
+    display: flex;
+    justify-content: left;
+    position: relative;
+    margin-bottom: 200px;
+}
+
+.logo h1 {
+    font-size: 2.2em;
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    margin: 69px 0px 0 0;
+    color:#fff;
+    left: 183px;
+    position: relative;
+    font-family: "dnp-shuei-nmincho-std", sans-serif;
+    letter-spacing: 0.3em;
+}
+
+.logo::before {
+    content: '';
+    position: absolute;
+    left: 170px;
+    width: 1px;
+    height: 100%;
+    background-color: #f5efe9;
+}
+
+.footer-links {
+    margin-bottom: 20px;
+}
+
+.footer-links a {
+    color: #f5efe9;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 14px;
+}
+
+.footer-bottom {
+
+  font-size: 14px;
+  color: #f5efe9;
+  margin: 0px;
+  padding-bottom: 10px;
+  line-height: 0px;
+}
+
+.footer-bottom a {
+    color: #f5efe9;
+    text-decoration: none;
+}
 }
 @media screen and (min-width: 750px) {
   .main__top-wrapper h2 {
@@ -3082,74 +3150,7 @@ details-disclosure > details {
 .main__instagram-icon{
   width:4%;
 }
-.footer {
-    width: 100%;
-    text-align: right;
-    padding-top: 0px;
-    background-color: #b29a8a; /* フッター全体の背景色 */
-    font-family: "dnp-shuei-ymincho-std", sans-serif;
-}
 
-.footer_container {
-    max-width: 1200px;
-    margin: 0 auto;
-    position: relative;
-}
-.footer-links{
-  color:#fff;
-}
-.logo {
-    display: flex;
-    justify-content: left;
-    position: relative;
-    margin-bottom: 200px;
-}
-
-.logo h1 {
-    font-size: 2.2em;
-    writing-mode: vertical-rl;
-    text-orientation: upright;
-    margin: 69px 0px 0 0;
-    color:#fff;
-    left: 183px;
-    position: relative;
-    font-family: "dnp-shuei-nmincho-std", sans-serif;
-    letter-spacing: 0.3em;
-}
-
-.logo::before {
-    content: '';
-    position: absolute;
-    left: 170px;
-    width: 1px;
-    height: 100%;
-    background-color: #f5efe9;
-}
-
-.footer-links {
-    margin-bottom: 20px;
-}
-
-.footer-links a {
-    color: #f5efe9;
-    text-decoration: none;
-    margin: 0 10px;
-    font-size: 14px;
-}
-
-.footer-bottom {
-
-  font-size: 14px;
-  color: #f5efe9;
-  margin: 0px;
-  padding-bottom: 10px;
-  line-height: 0px;
-}
-
-.footer-bottom a {
-    color: #f5efe9;
-    text-decoration: none;
-}
 
 @media screen and (forced-colors: active) {
   .icon {

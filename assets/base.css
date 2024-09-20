@@ -2945,6 +2945,9 @@ details-disclosure > details {
   .main__top-wrapper h2 {
     font-size: 1.6em;
   }
+  .header__heading{
+    width:200px;
+  }
 }
 @media screen and (min-width: 750px) {
   .main__top-wrapper h2 {

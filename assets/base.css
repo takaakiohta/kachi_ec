@@ -2956,6 +2956,9 @@ details-disclosure > details {
     font-size: 3.2em;
     color:#5C5C5C;
   }
+  .main__top-wrapper img{
+    width: 260px;  
+  }
   .header__heading{
     width:200px;
     text-align:left;

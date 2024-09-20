@@ -2966,6 +2966,14 @@ details-disclosure > details {
   font-family: dnp-shuei-nmincho-std, sans-serif;
   font-size: 2em;
 }
+.main__membar-txt01{
+  font-size: 1.1em;
+  line-height: 2em;
+}
+.main__membar-txt02{
+  font-size: 0.8em;
+  line-height: 1em;
+}
 .btn_membar {
   background: #fff;
   width: 360px;

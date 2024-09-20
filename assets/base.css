@@ -2939,6 +2939,9 @@ details-disclosure > details {
 .menu-drawer-container{display:none !important;}
 
 @media screen and (max-width: 749px) {
+  .display_pc{
+    display:none;
+  }
   .header__heading-link .h2{
     font-family: "dnp-shuei-nmincho-std", sans-serif;
     font-size:1.6em;
@@ -3019,6 +3022,9 @@ details-disclosure > details {
 }
 
 @media screen and (min-width: 750px) {
+  .display_sp{
+    display:none;
+  }
   .header__heading-link .h2{
     font-family: "dnp-shuei-nmincho-std", sans-serif;
     font-size:2.2em;

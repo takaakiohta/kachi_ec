@@ -1,11 +1,18 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "top_title_pJbthX": {
       "type": "top_title",
       "custom_css": [
-        ".main__top-wrapper {display: block; margin: 115px auto 470px; width: 50%; text-align: center; font-family: dnp-shuei-nmincho-std, sans-serif;}",
-        ".main__top-wrapper h1 {margin: 0 auto; font-family: dnp-shuei-nmincho-std, sans-serif; font-size: 3.8em;}",
-        ".main__top-wrapper h2 {font-size: 2.6em; font-family: dnp-shuei-nmincho-std, sans-serif;}"
+
       ],
       "settings": {
       }

@@ -2992,6 +2992,12 @@ details-disclosure > details {
   font-size: 2.6em;
   font-family: dnp-shuei-nmincho-std, sans-serif;
 }
+.btn_instagram_wrapper {
+  display: block;
+  margin: 115px auto 470px;
+  text-align: center;
+  font-family: dnp-shuei-nmincho-std, sans-serif;
+}
 .footer {
     width: 100%;
     text-align: right;

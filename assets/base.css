@@ -2989,6 +2989,7 @@ details-disclosure > details {
   max-width: 360px;
   padding: 24px;
   position:relative;
+  text-decoration:none;
 }
 .btn_membar .btn_register {
   text-decoration: none;
@@ -3051,6 +3052,7 @@ details-disclosure > details {
   text-align: left;
   padding: 24px;
   position:relative;
+  text-decoration:none;
 }
 .arrow{
   position:absolute;

@@ -2951,8 +2951,28 @@ details-disclosure > details {
   .footer {
     text-align:left;
   }
+  .top_bg{
+    background:url("https://cdn.shopify.com/s/files/1/0721/1879/6544/files/bg.png?v=1726720177");
+    background-size:cover;
+    background-repeat:no-repeat;
+  }
+  .top_footer_bg{
+    background:url("https://cdn.shopify.com/s/files/1/0721/1879/6544/files/footer_bg.png?v=1726639433");
+    background-size:cover;
+    background-repeat:no-repeat;
+  }
 }
 @media screen and (min-width: 750px) {
+  .top_bg{
+    background:url("https://cdn.shopify.com/s/files/1/0721/1879/6544/files/SP.png?v=1726816723");
+    background-size:cover;
+    background-repeat:no-repeat;
+  }
+  .top_footer_bg{
+    background:url("https://cdn.shopify.com/s/files/1/0721/1879/6544/files/Footer.png?v=1726816737");
+    background-size:cover;
+    background-repeat:no-repeat;
+  }
   .main__top-wrapper h2 {
     font-size: 2.6em;
   }
@@ -3019,18 +3039,10 @@ details-disclosure > details {
   .footer-bottom a {
       color: #f5efe9;
       text-decoration: none;
-                                        }
+                                       
+  }
 }
-.top_bg{
-  background:url("https://cdn.shopify.com/s/files/1/0721/1879/6544/files/bg.png?v=1726720177");
-  background-size:cover;
-  background-repeat:no-repeat;
-}
-.top_footer_bg{
-  background:url("https://cdn.shopify.com/s/files/1/0721/1879/6544/files/footer_bg.png?v=1726639433");
-  background-size:cover;
-  background-repeat:no-repeat;
-}
+
 .main__membar-wrapper {
   display: block;
   margin: 0 auto;

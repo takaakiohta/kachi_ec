@@ -2944,6 +2944,13 @@ details-disclosure > details {
     font-size:1.6em;
     letter-spacing:0em;
   }
+  .main__top-wrapper {
+    display: block;
+    margin: 115px auto 270px;
+    text-align: center;
+    font-family: dnp-shuei-nmincho-std, sans-serif;
+    color:#5C5C5C;
+  }
   .main__top-wrapper p{
     font-size: 0.87em;
     margin-bottom:50px;
@@ -3015,6 +3022,13 @@ details-disclosure > details {
     background:url("https://cdn.shopify.com/s/files/1/0721/1879/6544/files/footer_bg.png?v=1726639433");
     background-size:cover;
     background-repeat:no-repeat;
+  }
+  .main__top-wrapper {
+    display: block;
+    margin: 115px auto 470px;
+    text-align: center;
+    font-family: dnp-shuei-nmincho-std, sans-serif;
+    color:#5C5C5C;
   }
   .main__top-wrapper h2 {
     font-size: 2.6em;
@@ -3140,13 +3154,7 @@ details-disclosure > details {
   color: #5c5c5c;
   font-size:1.6em;
 }
-.main__top-wrapper {
-  display: block;
-  margin: 115px auto 470px;
-  text-align: center;
-  font-family: dnp-shuei-nmincho-std, sans-serif;
-  color:#5C5C5C;
-}
+
 
 .main__top-wrapper h2 {
   font-family: dnp-shuei-nmincho-std, sans-serif;

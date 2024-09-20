@@ -3007,7 +3007,7 @@ details-disclosure > details {
   font-family: dnp-shuei-nmincho-std, sans-serif;
   letter-spacing: 2px;
   color:#5C5C5C; 
-  margin:0px;
+  margin:0px 0 80px;
 }
 .btn_instagram_wrapper{
   display:flex;

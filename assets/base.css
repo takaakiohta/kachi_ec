@@ -2935,14 +2935,15 @@ details-disclosure > details {
 .gradient {
   background-attachment: fixed;
 }
-.header__heading-link .h2{
-  font-family: "dnp-shuei-nmincho-std", sans-serif;
-  font-size:2.2em;
-  letter-spacing:0.2em;
-}
+
 .menu-drawer-container{display:none !important;}
 
 @media screen and (max-width: 749px) {
+  .header__heading-link .h2{
+    font-family: "dnp-shuei-nmincho-std", sans-serif;
+    font-size:1.6em;
+    letter-spacing:0.2em;
+  }
   .main__top-wrapper h2 {
     font-size: 1.6em;
   }
@@ -2987,6 +2988,11 @@ details-disclosure > details {
 }
 
 @media screen and (min-width: 750px) {
+  .header__heading-link .h2{
+    font-family: "dnp-shuei-nmincho-std", sans-serif;
+    font-size:2.2em;
+    letter-spacing:0.2em;
+  }
   .top_bg{
     background:url("https://cdn.shopify.com/s/files/1/0721/1879/6544/files/bg.png?v=1726720177");
     background-size:cover;

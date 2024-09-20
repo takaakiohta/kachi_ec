@@ -2944,6 +2944,11 @@ details-disclosure > details {
     font-size: 1.6em;
   }
 }
+@media screen and (min-width: 750px) {
+  .main__top-wrapper h2 {
+    font-size: 2.6em;
+  }
+}
 .top_bg{
   background:url("https://cdn.shopify.com/s/files/1/0721/1879/6544/files/bg.png?v=1726720177");
   background-size:cover;
@@ -3015,7 +3020,6 @@ details-disclosure > details {
   color:#5C5C5C;
 }
 .main__top-wrapper h2 {
-  font-size: 2.6em;
   font-family: dnp-shuei-nmincho-std, sans-serif;
   color:#5C5C5C;
 }

@@ -2968,10 +2968,12 @@ details-disclosure > details {
 }
 .btn_membar {
   background: #fff;
-  width: 200px;
+  width: 360px;
   margin: 0 auto;
   padding: 10px;
   border: 1px solid #515151;
+  max-width: 360px;
+  padding: 24px;
   position:relative;
 }
 .btn_membar a {
@@ -3036,11 +3038,11 @@ details-disclosure > details {
 }
 .arrow{
   position:absolute;
-  right:10px;
-  top: 15%;
+  right: 20px;
+  top: 33%;
 }
 .arrow img{
-  width:30px;
+  width:37px;
 }
 .main__instagram-icon{
   width:4%;

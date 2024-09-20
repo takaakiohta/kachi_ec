@@ -3034,7 +3034,7 @@ details-disclosure > details {
   width: 76%;
   max-width: 800px;
 }
-.btn_instagram_wrapper a {
+.btn_instagram_wrapper .btn_register {
   text-decoration: none;
   color: #5c5c5c;
 

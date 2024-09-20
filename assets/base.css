@@ -3067,6 +3067,9 @@ details-disclosure > details {
   position:relative;
   text-decoration:none;
 }
+.btn_instagram:hover,.btn_membar:hover{
+  opacity:0.6;
+}
 .arrow{
   position:absolute;
   right: 20px;

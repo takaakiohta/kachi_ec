@@ -2962,13 +2962,15 @@ details-disclosure > details {
     background-repeat:no-repeat;
   }
   .logo h6 {
-    margin:0px;
+    font-size:1.6em;
+    margin:0px 0 40px 0;
   }
   .footer-links_sp{
     color:#fff;
   }
   .footer-links_sp a, .footer-bottom,.logo h6{
     color:#fff;
+    text-decoration:none;
   }
   .footer-links_pc{
     display:none;

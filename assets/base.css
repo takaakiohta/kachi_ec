@@ -2972,12 +2972,12 @@ details-disclosure > details {
 }
 .main__membar-txt02{
   font-size: 0.8em;
-  line-height: 1em;
+  line-height: 2em;
 }
 .btn_membar {
   background: #fff;
   width: 360px;
-  margin: 0 auto;
+  margin: 0 auto 40px;
   padding: 10px;
   border: 1px solid #515151;
   max-width: 360px;

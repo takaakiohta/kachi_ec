@@ -2989,7 +2989,7 @@ details-disclosure > details {
   padding: 24px;
   position:relative;
 }
-.btn_membar a {
+.btn_membar .btn_register {
   text-decoration: none;
   color: #5c5c5c;
   font-size:1.6em;

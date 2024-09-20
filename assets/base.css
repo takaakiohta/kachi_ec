@@ -2964,6 +2964,12 @@ details-disclosure > details {
     font-size: 3.2em;
     color:#5C5C5C;
   }
+  .main__membar-wrapper h2 {
+    margin: 0 auto 60px;
+    font-family: dnp-shuei-nmincho-std, sans-serif;
+    font-size: 1.6em;
+    color:#5C5C5C;
+  }
   .main__top-wrapper img{
     width: 260px;  
   }
@@ -3037,6 +3043,12 @@ details-disclosure > details {
     margin: 0 auto;
     font-family: dnp-shuei-nmincho-std, sans-serif;
     font-size: 3.8em;
+    color:#5C5C5C;
+  }
+  .main__membar-wrapper h2 {
+    margin: 0 auto 60px;
+    font-family: dnp-shuei-nmincho-std, sans-serif;
+    font-size: 2.4em;
     color:#5C5C5C;
   }
   .footer {
@@ -3120,13 +3132,7 @@ details-disclosure > details {
   margin: 0 auto;
   font-family: dnp-shuei-nmincho-std, sans-serif;
 }
-.main__membar-wrapper h2 {
-  margin: 0 auto 60px;
-  font-family: dnp-shuei-nmincho-std, sans-serif;
-  font-size: 2.4em;
-  color:#5C5C5C;
 
-}
 .main__membar-txt01{
   font-size: 1.1em;
   line-height: 2em;

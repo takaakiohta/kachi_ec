@@ -3015,10 +3015,12 @@ details-disclosure > details {
   gap: 10px;
   margin: 0 auto;
   width: 76%;
+  max-width: 800px;
 }
 .btn_instagram_wrapper a {
   text-decoration: none;
   color: #5c5c5c;
+  text-align:left;
 }
 .btn_instagram {
   background: #fff;

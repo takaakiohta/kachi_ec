@@ -2942,7 +2942,7 @@ details-disclosure > details {
   .header__heading-link .h2{
     font-family: "dnp-shuei-nmincho-std", sans-serif;
     font-size:1.6em;
-    letter-spacing:0.2em;
+    letter-spacing:0em;
   }
   .main__top-wrapper h2 {
     font-size: 1.6em;

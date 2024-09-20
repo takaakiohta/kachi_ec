@@ -3009,6 +3009,10 @@ details-disclosure > details {
   color:#5C5C5C; 
   margin:0px;
 }
+.btn_instagram_wrapper{
+  display:flex;
+  justify-content:center;
+}
 .main__instagram-icon{
   width:4%;
 }

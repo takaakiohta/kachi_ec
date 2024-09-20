@@ -3011,13 +3011,12 @@ details-disclosure > details {
   .logo h6 {
       font-size: 2.2em;
       writing-mode: vertical-rl;
-      text-orientation: upright;
       margin: 69px 0px 0 0;
       color:#fff;
       left: 183px;
       position: relative;
       font-family: "dnp-shuei-nmincho-std", sans-serif;
-      letter-spacing: 0.3em;
+      letter-spacing: 0.2em;
   }
   
   .logo::before {

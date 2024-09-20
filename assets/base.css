@@ -2998,6 +2998,9 @@ details-disclosure > details {
   text-align: center;
   font-family: dnp-shuei-nmincho-std, sans-serif;
 }
+.main__instagram-icon{
+  width:4%;
+}
 .footer {
     width: 100%;
     text-align: right;

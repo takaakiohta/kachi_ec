@@ -2961,6 +2961,9 @@ details-disclosure > details {
     background-size:cover;
     background-repeat:no-repeat;
   }
+    .logo h6 {
+      margin:0px;
+    }
 }
 @media screen and (min-width: 750px) {
   .top_bg{
@@ -2995,7 +2998,7 @@ details-disclosure > details {
       margin-bottom: 200px;
   }
   
-  .logo h1 {
+  .logo h6 {
       font-size: 2.2em;
       writing-mode: vertical-rl;
       text-orientation: upright;
@@ -3028,10 +3031,8 @@ details-disclosure > details {
   }
   
   .footer-bottom {
-  
     font-size: 14px;
     color: #f5efe9;
-    margin: 0px;
     padding-bottom: 10px;
     line-height: 0px;
   }
@@ -3042,7 +3043,9 @@ details-disclosure > details {
                                        
   }
 }
-
+  .footer-bottom {
+    margin: 0px;
+  }
 .main__membar-wrapper {
   display: block;
   margin: 0 auto;

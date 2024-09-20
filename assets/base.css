@@ -2961,10 +2961,12 @@ details-disclosure > details {
     background-size:cover;
     background-repeat:no-repeat;
   }
-
-    .logo h6 {
-      margin:0px;
-    }
+  .logo h6 {
+    margin:0px;
+  }
+  .footer-links_pc{
+    
+  }
 }
 @media screen and (min-width: 750px) {
   .top_bg{
@@ -2989,8 +2991,11 @@ details-disclosure > details {
       margin: 0 auto;
       position: relative;
   }
-  .footer-links{
+  .footer-links_sp{
     color:#fff;
+  }
+  .footer-links_pc{
+    display:none;
   }
   .logo {
       display: flex;
@@ -3020,17 +3025,19 @@ details-disclosure > details {
       background-color: #f5efe9;
   }
   
-  .footer-links {
+  .footer-links_pc {
       margin-bottom: 20px;
   }
   
-  .footer-links a {
+  .footer-links_pc a {
       color: #f5efe9;
       text-decoration: none;
       margin: 0 10px;
       font-size: 14px;
   }
-  
+  .footer-links_sp{
+    display:none;
+  }
   .footer-bottom {
     font-size: 14px;
     color: #f5efe9;

@@ -2982,15 +2982,18 @@ details-disclosure > details {
   margin: 115px auto 470px;
   text-align: center;
   font-family: dnp-shuei-nmincho-std, sans-serif;
+  color:#5C5C5C;
 }
 .main__top-wrapper h1 {
   margin: 0 auto;
   font-family: dnp-shuei-nmincho-std, sans-serif;
   font-size: 3.8em;
+  color:#5C5C5C;
 }
 .main__top-wrapper h2 {
   font-size: 2.6em;
   font-family: dnp-shuei-nmincho-std, sans-serif;
+  color:#5C5C5C;
 }
 .main__instagram-wrapper {
   display: block;
@@ -3002,6 +3005,7 @@ details-disclosure > details {
 .main__instagram-wrapper h2 {
   font-size: 2.6em;
   font-family: dnp-shuei-nmincho-std, sans-serif;
+  color:#5C5C5C; 
 }
 .main__instagram-icon{
   width:4%;

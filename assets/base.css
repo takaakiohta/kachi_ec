@@ -3013,6 +3013,10 @@ details-disclosure > details {
   display:flex;
   justify-content:center;
 }
+.btn_instagram_wrapper a {
+  text-decoration: none;
+  color: #5c5c5c;
+}
 .btn_instagram {
   background: #fff;
   width: 200px;

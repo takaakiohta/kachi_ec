@@ -2977,6 +2977,22 @@ details-disclosure > details {
   text-decoration: none;
   color: #5c5c5c;
 }
+.main__top-wrapper {
+  display: block;
+  margin: 115px auto 470px;
+  width: 50%;
+  text-align: center;
+  font-family: dnp-shuei-nmincho-std, sans-serif;
+}
+.main__top-wrapper h1 {
+  margin: 0 auto;
+  font-family: dnp-shuei-nmincho-std, sans-serif;
+  font-size: 3.8em;
+}
+.main__top-wrapper h2 {
+  font-size: 2.6em;
+  font-family: dnp-shuei-nmincho-std, sans-serif;
+}
 .footer {
     width: 100%;
     text-align: right;

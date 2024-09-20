@@ -3019,10 +3019,11 @@ details-disclosure > details {
 }
 .btn_instagram {
   background: #fff;
-  width: 200px;
+  width: 360px;
   margin: 0 auto;
   padding: 10px;
   border: 1px solid #515151;
+  max-width: 360px;
 }
 .main__instagram-icon{
   width:4%;

@@ -3037,6 +3037,10 @@ details-disclosure > details {
 .arrow{
   position:absolute;
   right:10px;
+  top: 15%;
+}
+.arrow img{
+  width:30px;
 }
 .main__instagram-icon{
   width:4%;

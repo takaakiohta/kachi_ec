@@ -2951,7 +2951,7 @@ details-disclosure > details {
   .footer {
     text-align:left;
   }
-    .top_bg{
+  .top_bg{
     background:url("https://cdn.shopify.com/s/files/1/0721/1879/6544/files/SP.png?v=1726816723");
     background-size:cover;
     background-repeat:no-repeat;
@@ -2965,6 +2965,9 @@ details-disclosure > details {
     margin:0px;
   }
   .footer-links_sp{
+    color:#fff;
+  }
+  .footer-links_sp a{
     color:#fff;
   }
   .footer-links_pc{
@@ -3024,15 +3027,15 @@ details-disclosure > details {
   }
   
   .footer-links_pc {
-      margin-bottom: 20px;
+    margin-bottom: 20px;
     color:#fff;
   }
   
   .footer-links_pc a {
-      color: #f5efe9;
-      text-decoration: none;
-      margin: 0 10px;
-      font-size: 14px;
+    color: #f5efe9;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 14px;
   }
   .footer-links_sp{
     display:none;

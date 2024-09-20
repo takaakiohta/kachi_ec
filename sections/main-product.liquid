@@ -138,19 +138,10 @@
                   {%- assign product_form_installment_id = 'product-form-installment-' | append: section.id -%}
                   {%- form 'product', product, id: product_form_installment_id, class: 'installment caption-large' -%}
                     <input type="hidden" name="id" value="{{ product.selected_or_first_available_variant.id }}">
-                      <input
-                      type='text'
-                      name='properties[合言葉]'
-                      placeholder='合言葉を入力してください'
-                    >
+  
                     {{ form | payment_terms }}
                   {%- endform -%}
-                  <input
-                  type='text'
-                  name='properties[お合言葉名前]'
-                  placeholder='合言葉を入力してください'
-                  form='product-form-{{ section.id }}'
-                >
+
                 </div>
               {%- when 'inventory' -%}
                 <p
@@ -674,6 +665,12 @@
                 {% render 'icon-with-text', block: block %}
             {%- endcase -%}
           {%- endfor -%}
+
+          // ループの外に配置
+<p class="line-item-property__field">
+  <label for="engraveTxt">刻印する文言</label>
+  <input id="engraveTxt" type="text" name="properties[刻印する文言]" form="{{ product_form_id }}">
+</p>
           <a href="{{ product.url }}" class="link product__view-details animate-arrow">
             {{ 'products.product.view_full_details' | t }}
             {{- 'icon-arrow.svg' | inline_asset_content -}}

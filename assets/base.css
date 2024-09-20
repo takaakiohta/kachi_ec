@@ -2962,13 +2962,14 @@ details-disclosure > details {
   font-family: dnp-shuei-nmincho-std, sans-serif;
 }
 .main__membar-wrapper h2 {
-  margin: 0 auto;
+  margin: 0 auto 60px;
   font-family: dnp-shuei-nmincho-std, sans-serif;
   font-size: 2em;
 }
 .main__membar-txt01{
   font-size: 1.1em;
   line-height: 2em;
+  margin-bottom: 40px;
 }
 .main__membar-txt02{
   font-size: 0.8em;

@@ -3122,8 +3122,13 @@ details-disclosure > details {
 }
 
 .footer-bottom {
-    font-size: 14px;
-    color: #f5efe9;
+
+  font-size: 14px;
+  color: #f5efe9;
+  margin: 0px;
+  padding-bottom: 10px;
+  line-height: 0px;
+}
 }
 
 .footer-bottom a {

@@ -145,6 +145,12 @@
                     >
                     {{ form | payment_terms }}
                   {%- endform -%}
+                  <input
+                  type='text'
+                  name='properties[お合言葉名前]'
+                  placeholder='合言葉を入力してください'
+                  form='product-form-{{ section.id }}'
+                >
                 </div>
               {%- when 'inventory' -%}
                 <p

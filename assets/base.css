@@ -2956,6 +2956,7 @@ details-disclosure > details {
   text-align: center;
   margin-bottom: 470px;
   font-family: dnp-shuei-nmincho-std, sans-serif;
+  color:#5C5C5C;
 }
 .main__membar-wrapper h1 {
   margin: 0 auto;
@@ -2964,12 +2965,15 @@ details-disclosure > details {
 .main__membar-wrapper h2 {
   margin: 0 auto 60px;
   font-family: dnp-shuei-nmincho-std, sans-serif;
-  font-size: 2em;
+  font-size: 2.4em;
+  color:#5C5C5C;
+
 }
 .main__membar-txt01{
   font-size: 1.1em;
   line-height: 2em;
   margin-bottom: 40px;
+  
 }
 .main__membar-txt02{
   font-size: 0.8em;

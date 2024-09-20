@@ -2972,6 +2972,7 @@ details-disclosure > details {
   margin: 0 auto;
   padding: 10px;
   border: 1px solid #515151;
+  position:relative;
 }
 .btn_membar a {
   text-decoration: none;
@@ -3031,6 +3032,11 @@ details-disclosure > details {
   max-width: 360px;
   text-align: left;
   padding: 24px;
+  position:relative;
+}
+.arrow{
+  position:absolute;
+  right:10px;
 }
 .main__instagram-icon{
   width:4%;

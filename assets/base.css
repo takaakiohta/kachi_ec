@@ -3013,6 +3013,13 @@ details-disclosure > details {
   display:flex;
   justify-content:center;
 }
+.btn_instagram {
+  background: #fff;
+  width: 200px;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid #515151;
+}
 .main__instagram-icon{
   width:4%;
 }

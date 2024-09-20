@@ -3006,6 +3006,7 @@ details-disclosure > details {
   font-size: 2.6em;
   font-family: dnp-shuei-nmincho-std, sans-serif;
   color:#5C5C5C; 
+  margin:0px;
 }
 .main__instagram-icon{
   width:4%;

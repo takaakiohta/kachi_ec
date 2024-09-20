@@ -2979,6 +2979,7 @@ details-disclosure > details {
 .btn_membar a {
   text-decoration: none;
   color: #5c5c5c;
+  font-size:1.6em;
 }
 .main__top-wrapper {
   display: block;

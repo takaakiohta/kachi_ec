@@ -28,10 +28,7 @@
     "top_instagram_MXBHVH": {
       "type": "top_instagram",
       "custom_css": [
-        ".main__membar-wrapper {display: block; margin: 0 auto; width: 50%; text-align: center; margin-bottom: 160px;}",
-        ".main__top-wrapper h1 {margin: 0 auto;}",
-        ".btn_membar {background: #fff; width: 200px; margin: 0 auto; padding: 10px; border: 1px solid #515151;}",
-        ".btn_membar a {text-decoration: none; color: #5c5c5c;}"
+
       ],
       "settings": {
       }

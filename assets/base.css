@@ -3322,6 +3322,9 @@ details-disclosure > details {
     width:100%;
     max-width: 44rem;
   }
+  .product-form__submit span{
+    padding:20px;
+  }
   .footer-bottom p{
     margin: 0px;
   }

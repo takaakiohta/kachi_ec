@@ -3307,10 +3307,13 @@ details-disclosure > details {
   }
 }
   #engraveTxt{
-    border-top:0;
+    border-top: 0;
     border-right: 0;
     border-bottom: 1px solid #333;
     border-left: 0;
+    background: none;
+    font-size: 1.2em;
+    margin-top: 20px;
   }
   .footer-bottom p{
     margin: 0px;

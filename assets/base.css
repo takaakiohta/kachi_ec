@@ -2998,6 +2998,22 @@ details-disclosure > details {
     background-size:cover;
     background-repeat:no-repeat;
   }
+  .btn_membar {
+    display:block;
+    background: #fff;
+    width: 75%;
+    margin: 0 auto 40px;
+    padding: 10px;
+    border: 1px solid #515151;
+    padding: 17px 24px;
+    position:relative;
+    text-decoration:none;
+  }
+  .btn_membar .btn_register {
+    text-decoration: none;
+    color: #5c5c5c;
+    font-size:1.2em;
+  }
   .logo h6 {
     font-size:1.6em;
     margin:0px 0 20px 0;
@@ -3018,6 +3034,15 @@ details-disclosure > details {
   }
   .footer-bottom{
     text-align:right;
+  }
+  .arrow{
+    position:absolute;
+    right: 20px;
+    top: 38%;
+    line-height: 0px;
+  }
+  .arrow img{
+    width:37px;
   }
 }
 
@@ -3066,6 +3091,32 @@ details-disclosure > details {
     font-size: 1.1em;
     line-height: 2em;
     margin-bottom: 40px;
+  }
+  .btn_membar {
+    display:block;
+    background: #fff;
+    width: 360px;
+    margin: 0 auto 40px;
+    padding: 10px;
+    border: 1px solid #515151;
+    max-width: 360px;
+    padding: 24px;
+    position:relative;
+    text-decoration:none;
+  }
+  .btn_membar .btn_register {
+    text-decoration: none;
+    color: #5c5c5c;
+    font-size:1.6em;
+  }
+  .arrow{
+    position:absolute;
+    right: 20px;
+    top: 44%;
+    line-height: 0px;
+  }
+  .arrow img{
+    width:37px;
   }
   .footer {
     text-align:right;
@@ -3154,23 +3205,7 @@ details-disclosure > details {
   font-size: 0.8em;
   line-height: 2em;
 }
-.btn_membar {
-  display:block;
-  background: #fff;
-  width: 360px;
-  margin: 0 auto 40px;
-  padding: 10px;
-  border: 1px solid #515151;
-  max-width: 360px;
-  padding: 24px;
-  position:relative;
-  text-decoration:none;
-}
-.btn_membar .btn_register {
-  text-decoration: none;
-  color: #5c5c5c;
-  font-size:1.6em;
-}
+
 
 
 .main__top-wrapper h2 {
@@ -3220,15 +3255,7 @@ details-disclosure > details {
 .btn_instagram:hover,.btn_membar:hover{
   opacity:0.6;
 }
-.arrow{
-  position:absolute;
-  right: 20px;
-  top: 44%;
-  line-height: 0px;
-}
-.arrow img{
-  width:37px;
-}
+
 .main__instagram-icon{
   width:4%;
 }

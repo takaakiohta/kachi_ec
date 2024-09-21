@@ -3061,6 +3061,18 @@ details-disclosure > details {
     width:12%;
     max-width: 55px;
   }
+  .btn_instagram {
+    display:block;
+    background: #fff;
+    width: 75%;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #515151;
+    text-align: left;
+    padding: 17px 24px;
+    position:relative;
+    text-decoration:none;
+  }
   .arrow{
     position:absolute;
     right: 20px;
@@ -3205,7 +3217,19 @@ details-disclosure > details {
       height: 100%;
       background-color: #f5efe9;
   }
-  
+  .btn_instagram {
+    display:block;
+    background: #fff;
+    width: 360px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid #515151;
+    max-width: 360px;
+    text-align: left;
+    padding: 24px;
+    position:relative;
+    text-decoration:none;
+  }
   .footer-links_pc {
     margin-bottom: 20px;
     color:#fff;
@@ -3270,19 +3294,7 @@ details-disclosure > details {
   color: #5c5c5c;
 
 }
-.btn_instagram {
-  display:block;
-  background: #fff;
-  width: 360px;
-  margin: 0 auto;
-  padding: 10px;
-  border: 1px solid #515151;
-  max-width: 360px;
-  text-align: left;
-  padding: 24px;
-  position:relative;
-  text-decoration:none;
-}
+
 .btn_instagram:hover,.btn_membar:hover{
   opacity:0.6;
 }

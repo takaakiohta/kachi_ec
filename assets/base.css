@@ -3045,6 +3045,7 @@ details-disclosure > details {
   }
   .main__instagram-icon{
     width:12%;
+    max-width: 55px;
   }
   .arrow{
     position:absolute;

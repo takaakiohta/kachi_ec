@@ -3073,6 +3073,12 @@ details-disclosure > details {
     position:relative;
     text-decoration:none;
   }
+  .btn_instagram_wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 0 auto;
+  }
   .arrow{
     position:absolute;
     right: 20px;

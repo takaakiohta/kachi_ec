@@ -84,6 +84,10 @@
             {% endif %}
           >
             <span>
+            {% if product.id == 8863434637568 %}
+            抽選に応募する（※決済完了するまで応募完了となりませんのでご注意ください）
+            {% else %}
+            
               {%- if product.selected_or_first_available_variant == null -%}
                 {{ 'products.product.unavailable' | t }}
               {%- elsif product.selected_or_first_available_variant.available == false or quantity_rule_soldout -%}
@@ -91,7 +95,9 @@
               {%- else -%}
                 {{ 'products.product.add_to_cart' | t }}
               {%- endif -%}
+            {% endif %}
             </span>
+
             {%- render 'loading-spinner' -%}
           </button>
           {%- if show_dynamic_checkout -%}

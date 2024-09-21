@@ -297,8 +297,13 @@
   </head>
 
   <body class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">
-
-    <div class="top_bg">
+   <div 
+    {% if template == 'index' %}
+   class="top_bg"
+    {% else %}
+   class="sub_bg"
+    {% endif %}
+    >
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ 'accessibility.skip_to_text' | t }}
     </a>

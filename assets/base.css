@@ -3302,7 +3302,8 @@ details-disclosure > details {
     font-family: "dnp-shuei-nmincho-std", sans-serif;
   }
   .product__notice{
-    font-size:1.2em;
+    font-size: 0.9em;
+    line-height: 1.8em;
   }
 }
 

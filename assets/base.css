@@ -3104,6 +3104,11 @@ details-disclosure > details {
     background-size:cover;
     background-repeat:no-repeat;
   }
+  .sub_bg{
+    background:url("https://cdn.shopify.com/s/files/1/0721/1879/6544/files/SP_2e59109e-7f7b-4444-b8a4-497aef8a8fb5.png?v=1726898078");
+    background-size:cover;
+    background-repeat:no-repeat;
+  }
   .top_footer_bg{
     background:url("https://cdn.shopify.com/s/files/1/0721/1879/6544/files/footer_bg.png?v=1726639433");
     background-size:cover;

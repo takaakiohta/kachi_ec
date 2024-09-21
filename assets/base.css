@@ -2967,6 +2967,14 @@ details-disclosure > details {
     font-size: 3.2em;
     color:#5C5C5C;
   }
+  .main__membar-wrapper {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 270px;
+    font-family: dnp-shuei-nmincho-std, sans-serif;
+    color:#5C5C5C;
+  }
   .main__membar-wrapper h2 {
     margin: 0 auto 60px;
     font-family: dnp-shuei-nmincho-std, sans-serif;
@@ -3035,6 +3043,9 @@ details-disclosure > details {
   .footer-bottom{
     text-align:right;
   }
+  .main__instagram-icon{
+    width:12%;
+  }
   .arrow{
     position:absolute;
     right: 20px;
@@ -3081,6 +3092,14 @@ details-disclosure > details {
     font-size: 3.8em;
     color:#5C5C5C;
   }
+  .main__membar-wrapper {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 470px;
+    font-family: dnp-shuei-nmincho-std, sans-serif;
+    color:#5C5C5C;
+  }
   .main__membar-wrapper h2 {
     margin: 0 auto 60px;
     font-family: dnp-shuei-nmincho-std, sans-serif;
@@ -3108,6 +3127,9 @@ details-disclosure > details {
     text-decoration: none;
     color: #5c5c5c;
     font-size:1.6em;
+  }
+  .main__instagram-icon{
+    width:4%;
   }
   .arrow{
     position:absolute;
@@ -3187,14 +3209,7 @@ details-disclosure > details {
   .footer-bottom p{
     margin: 0px;
   }
-.main__membar-wrapper {
-  display: block;
-  margin: 0 auto;
-  text-align: center;
-  margin-bottom: 470px;
-  font-family: dnp-shuei-nmincho-std, sans-serif;
-  color:#5C5C5C;
-}
+
 .main__membar-wrapper h1 {
   margin: 0 auto;
   font-family: dnp-shuei-nmincho-std, sans-serif;
@@ -3254,10 +3269,6 @@ details-disclosure > details {
 }
 .btn_instagram:hover,.btn_membar:hover{
   opacity:0.6;
-}
-
-.main__instagram-icon{
-  width:4%;
 }
 
 .footer {

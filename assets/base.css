@@ -3306,6 +3306,11 @@ details-disclosure > details {
     line-height: 1.8em;
   }
 }
+  .line-item-property__field{
+    background: #fff;
+    max-width: 44rem;
+    padding: 20px;
+  }
   #engraveTxt{
     border-top: 0;
     border-right: 0;
@@ -3314,6 +3319,7 @@ details-disclosure > details {
     background: none;
     font-size: 1em;
     margin-top: 20px;
+    max-width: 44rem;
   }
   .footer-bottom p{
     margin: 0px;

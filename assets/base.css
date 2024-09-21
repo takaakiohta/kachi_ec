@@ -3283,7 +3283,25 @@ details-disclosure > details {
                                        
   }
 }
-
+/* product */
+@media screen and (max-width: 749px) {
+  .product__info-wrapper{
+    font-family: "dnp-shuei-nmincho-std", sans-serif;
+  }
+  .product__title h1{
+    font-size:1.6em;
+    font-family: "dnp-shuei-nmincho-std", sans-serif;
+  }
+}
+@media screen and (min-width: 750px) {
+  .product__info-wrapper{
+    font-family: "dnp-shuei-nmincho-std", sans-serif;
+  }
+  .product__title h1{
+    font-size:1.6em;
+    font-family: "dnp-shuei-nmincho-std", sans-serif;
+  }
+}
 
   .footer-bottom p{
     margin: 0px;

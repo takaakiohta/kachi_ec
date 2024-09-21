@@ -3161,6 +3161,14 @@ details-disclosure > details {
     color: #5c5c5c;
     font-size:1.6em;
   }
+  .btn_instagram_wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 0 auto;
+    width: 76%;
+    max-width: 800px;
+  }
   .main__instagram-icon{
     width:4%;
   }
@@ -3274,27 +3282,16 @@ details-disclosure > details {
   font-family: dnp-shuei-nmincho-std, sans-serif;
 }
 
-
 .main__membar-txt02{
   font-size: 0.8em;
   line-height: 2em;
 }
-
-
 
 .main__top-wrapper h2 {
   font-family: dnp-shuei-nmincho-std, sans-serif;
   color:#5C5C5C;
 }
 
-.btn_instagram_wrapper{
-  display:flex;
-  justify-content:center;
-  gap: 10px;
-  margin: 0 auto;
-  width: 76%;
-  max-width: 800px;
-}
 .btn_instagram_wrapper .btn_register {
   text-decoration: none;
   color: #5c5c5c;

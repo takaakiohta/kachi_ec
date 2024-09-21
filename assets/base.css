@@ -3319,6 +3319,7 @@ details-disclosure > details {
     background: none;
     font-size: 1em;
     margin-top: 20px;
+    width:100%;
     max-width: 44rem;
   }
   .footer-bottom p{

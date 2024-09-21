@@ -3038,11 +3038,11 @@ details-disclosure > details {
   .arrow{
     position:absolute;
     right: 20px;
-    top: 38%;
+    top: 40%;
     line-height: 0px;
   }
   .arrow img{
-    width:37px;
+    width:32px;
   }
 }
 

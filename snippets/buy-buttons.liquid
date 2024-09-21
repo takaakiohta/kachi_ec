@@ -106,6 +106,25 @@
         </div>
       {%- endform -%}
     </product-form>
+    <script>
+  const inputField = document.getElementById('engraveTxt');
+  const submitButton = document.getElementById('ProductSubmitButton-template--18463702679808__main');
+  const errorMessage = document.getElementById('error-message');
+
+  // Disable submit button initially
+  submitButton.disabled = true;
+
+  // Add input event listener
+  inputField.addEventListener('input', () => {
+    if (inputField.value.trim() === '') {
+      submitButton.disabled = true;
+      errorMessage.style.display = 'block';
+    } else {
+      submitButton.disabled = false;
+      errorMessage.style.display = 'none';
+    }
+  });
+</script>
   {%- else -%}
     <div class="product-form">
       <div class="product-form__buttons form">

@@ -3306,7 +3306,12 @@ details-disclosure > details {
     line-height: 1.8em;
   }
 }
-
+  #engraveTxt{
+    border-top:0;
+    border-right: 0;
+    border-bottom: 1px solid #333;
+    border-left: 0;
+  }
   .footer-bottom p{
     margin: 0px;
   }

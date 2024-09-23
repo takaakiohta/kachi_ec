@@ -3339,7 +3339,7 @@ details-disclosure > details {
   }
 }
 
-  .other_content{
+  .other_content,.other_content h1{
     font-family: "dnp-shuei-nmincho-std", sans-serif;
   }
   .line-item-property__field{

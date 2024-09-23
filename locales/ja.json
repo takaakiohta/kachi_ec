@@ -538,6 +538,9 @@
     "checkout": {
       "marketing": {
         "accept_marketing_checkbox_label": "「何知 百価」お知らせをメールで受け取る"
+      },
+      "thank_you": {
+        "contact_us_html": "　"
       }
     }
   }

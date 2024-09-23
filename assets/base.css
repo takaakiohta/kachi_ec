@@ -3283,6 +3283,12 @@ details-disclosure > details {
                                        
   }
 }
+
+/* other_chenge */
+.cart-item__quantity {
+  display:none;
+}
+
 /* product */
 @media screen and (max-width: 749px) {
   .product__info-wrapper{

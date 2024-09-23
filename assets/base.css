@@ -3288,7 +3288,9 @@ details-disclosure > details {
 .cart-item__quantity {
   display:none;
 }
-
+.cart-items__heading--wide{
+  display:none;
+}
 /* product */
 @media screen and (max-width: 749px) {
   .product__info-wrapper{

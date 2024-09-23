@@ -3094,7 +3094,7 @@ details-disclosure > details {
   .arrow img{
     width:32px;
   }
-  .account_register_btn{
+.account_register_btn{
   background:#000;
   padding: 15px;
   width: 80%;
@@ -3303,11 +3303,15 @@ details-disclosure > details {
 .cart-items__heading--wide{
   display:none;
 }
-
 .account_register_btn a{
   color:#fff;
   text-decoration:none;
 }
+.account_register_btn a:hover{
+  color:#fff;
+  opacity:0.8;
+}
+
 /* product */
 @media screen and (max-width: 749px) {
   .product__info-wrapper{

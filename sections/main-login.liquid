@@ -151,9 +151,11 @@
 <h1 id="login" tabindex="-1">
     新規アカウント作成
 </h1>
-      <a class="account_register_btn" href="{{ routes.account_register_url }}">
+      <div class="account_register_btn">
+      <a href="{{ routes.account_register_url }}">
         {{ 'customer.login_page.create_account' | t }}
       </a>
+      </div>
     {%- endform -%}
   </div>
 

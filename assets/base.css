@@ -3306,6 +3306,10 @@ details-disclosure > details {
     line-height: 1.8em;
   }
 }
+
+  .other_content{
+    font-family: "dnp-shuei-nmincho-std", sans-serif;
+  }
   .line-item-property__field{
     background: #fff;
     max-width: 44rem;

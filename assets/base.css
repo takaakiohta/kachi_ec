@@ -3291,6 +3291,11 @@ details-disclosure > details {
 .cart-items__heading--wide{
   display:none;
 }
+
+.account_register_btn{
+  background:#000;
+  color:#fff;
+}
 /* product */
 @media screen and (max-width: 749px) {
   .product__info-wrapper{

@@ -3297,8 +3297,8 @@ details-disclosure > details {
 }
 
 /* other_chenge */
-.cart-item__quantity {
-  display:;
+.quantity-popover-container {
+  display:none;
 }
 .cart-items__heading--wide{
   display:none;

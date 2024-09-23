@@ -3309,8 +3309,11 @@ details-disclosure > details {
 }
 .account_register_btn a:hover{
   color:#fff;
+}
+.account_register_btn:hover{
   opacity:0.8;
 }
+
 
 /* product */
 @media screen and (max-width: 749px) {

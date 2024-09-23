@@ -3298,7 +3298,7 @@ details-disclosure > details {
 
 /* other_chenge */
 .quantity-popover-container {
-  display:none;
+  display:none !important;
 }
 .cart-items__heading--wide{
   display:none;

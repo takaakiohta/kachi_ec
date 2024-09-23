@@ -3298,7 +3298,7 @@ details-disclosure > details {
 
 /* other_chenge */
 .cart-item__quantity {
-  display:none;
+  display:;
 }
 .cart-items__heading--wide{
   display:none;
@@ -3311,7 +3311,7 @@ details-disclosure > details {
   color:#fff;
 }
 .account_register_btn:hover{
-  opacity:0.8;
+  opacity:0.6;
 }
 
 

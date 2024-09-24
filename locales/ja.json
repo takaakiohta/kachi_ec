@@ -543,8 +543,8 @@
         "contact_us_html": "　"
       },
       "contact": {
-        "first_name_label": "姓",
-        "optional_first_name_label": "姓",
+        "first_name_label": "名",
+        "optional_first_name_label": "名",
         "last_name_label": "姓",
         "optional_last_name_label": "姓"
       }

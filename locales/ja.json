@@ -541,6 +541,10 @@
       },
       "thank_you": {
         "contact_us_html": "　"
+      },
+      "contact": {
+        "first_name_label": "姓",
+        "optional_first_name_label": "姓"
       }
     }
   }
